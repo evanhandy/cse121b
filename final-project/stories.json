@@ -1,0 +1,44 @@
+[
+    {
+        "storyTitle":"Dragon Blood",
+        "wordCount":"80,000",
+        "synopsis":"A story about kids in the modern day who can turn into dragons.",
+        "image":"dragon_blood_img.jpg",
+        "finished":"finished"
+    },
+    {
+        "storyTitle":"Seeds of Magic",
+        "wordCount":"20,000",
+        "synopsis":"A story about kids undergoing a year-long set of trials in order to become mages.",
+        "image":"seeds_of_magic_img.jpg",
+        "finished":"unfinished"
+    },
+    {
+        "storyTitle":"What Remains of Magic",
+        "wordCount":"10,000",
+        "synopsis":"A story about two kids living very different lives in a steampunk city. One is a young inventor while the other is a magic user hidden away in a magical community. The story begins when the two kids meet.",
+        "image":"steampunk_img.jpg",
+        "finished":"unfinished"
+    },
+    {
+        "storyTitle":"Stories from the Everlong Manor",
+        "wordCount":"2,500",
+        "synopsis":"A story about a boy who lives in a manor that goes on forever with no outside world. The story begins when he is given an assignment that will take him on a several day journey through the manor.",
+        "image":"everlong_manor_img.jpg",
+        "finished":"unfinished"
+    },
+    {
+        "storyTitle":"Mark and Skyla",
+        "wordCount":"1,500",
+        "synopsis":"A slice-of-life featuring a man and his quirky demon friend.",
+        "image":"mark_and_skyla_img.jpg",
+        "finished":"unfinished"
+    },
+    {
+        "storyTitle":"Halloween 2023",
+        "wordCount":"850",
+        "synopsis":"A cozy Halloween short story featuring a young witch with a love of sweets.",
+        "image":"halloween_img.jpg",
+        "finished":"unfinished"
+    }
+]
