@@ -51,6 +51,7 @@ const sortBy = (stories) => {
             displayStories(stories.filter((story) => story.finished === "unfinished"));
             break;
         case "all":
+        default:
             displayStories(stories);
             break;
     }
